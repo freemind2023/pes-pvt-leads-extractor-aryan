@@ -94,9 +94,9 @@ def to_excel(df):
 
 
 # ---- Streamlit UI ----
-st.set_page_config(page_title="PES Pvt Leads Extractor", layout="wide")
-st.title("📍 PES Pvt Leads Extractor")
-st.caption("Free business data fetcher using OpenStreetMap – made by Free Mind Consultancy")
+st.set_page_config(page_title="PES Cold data extractor AI Agent", layout="wide")
+st.title("📍Pvt Company Data Leads Extractor")
+st.caption("Free business data fetcher using OpenStreetMap – made by PES")
 
 # ---- Dropdown of Pune regions ----
 zones = ["Pune", "PCMC", "Baner", "Kothrud", "Wakad", "Hinjewadi", "Hadapsar", "Viman Nagar", "Kharadi"]
