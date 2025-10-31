@@ -95,7 +95,7 @@ def to_excel(df):
 
 # ---- Streamlit UI ----
 st.set_page_config(page_title="PES Cold data extractor AI Agent", layout="wide")
-st.title("📍Pvt Company Data Leads Extractor")
+st.title("📍Pvt Company Data Leads Extractor AI Agent by PES")
 st.caption("Free business data fetcher using OpenStreetMap – made by PES")
 
 # ---- Dropdown of Pune regions ----
